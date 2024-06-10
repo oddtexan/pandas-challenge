@@ -68,7 +68,6 @@ Create a DataFrame called size_summary that breaks down school performance based
 ----------------------------------
 Analysis Summary:
 Analyzing the entirety of the district, there were a total of 39,170 high school students whose scores were analyzed to determine average math and reading scores as well as the percentages of students who passed math and reading subjects. Of the 39,170 students averages are as follows:
-
 Average Math Score - 78.985371	
 Average Reading Score - 81.87784
 % Passing Math	- 74.980853
